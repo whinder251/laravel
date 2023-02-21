@@ -6,7 +6,3 @@
 <body>
 <h1>Hola Mundo desde github</h1>
 </body>
-
-
-
-
